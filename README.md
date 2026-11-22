@@ -1,4 +1,4 @@
-<h1># Hi i am Gulam Rabbi👋</h1>
+<h1 style="background-color:indigo; color:white"># Hi i am Gulam Rabbi👋</h1>
 
 <h3>Aspiring Full-Stack Web Developer From Bangladesh</h3>
 **Gulamrabbi-dev/Gulamrabbi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
