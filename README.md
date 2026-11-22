@@ -1,28 +1,13 @@
-<!-- Header Banner & Typing Animation -->
-<div align="center">
-  <img src="https://vercel.app" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Gulamrabbi-Dev" />
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub Followers" />
-  </a>
-</p>
+# Hi there, I'm Gulam Rabbi 👋
+**Full-Stack Web Developer | Tech Enthusiast | Problem Solver**
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Building modern web applications & improving problem-solving skills.
+- 🔭 **Currently working on:** Building modern, clean, and scalable web applications.
 - 🌱 **Currently learning:** Advanced JavaScript, System Design, and Cloud Technologies.
-- 👯 **Looking to collaborate on:** Open-source projects and innovative web/app solutions.
+- 👯 **Looking to collaborate on:** Open-source projects and innovative software solutions.
 - 💬 **Ask me about:** Web Development, Git, GitHub, and Programming fundamentals.
 - ⚡ **Fun fact:** I turn coffee into clean code! ☕💻
 
@@ -30,64 +15,31 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-#### **Languages**
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![C++](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
-#### **Frameworks & Libraries**
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Node.js](https://shields.io)
-![TailwindCSS](https://shields.io)
-
-#### **Databases & Tools**
-![MongoDB](https://shields.io)
-![MySQL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` • `Python` • `C++` • `HTML5` • `CSS3` |
+| **Frameworks & Libraries** | `React` • `Next.js` • `Node.js` • `Express.js` • `Tailwind CSS` |
+| **Databases** | `MongoDB` • `MySQL` • `PostgreSQL` |
+| **Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Linux` • `Postman` |
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</div>
-
-<div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</div>
+- **[Project Name 1](https://github.com)** — প্রজেক্টটি কী কাজ করে তার এক লাইনের সংক্ষিপ্ত বর্ণনা। *(Tech: React, Node.js)*
+- **[Project Name 2](https://github.com)** — প্রজেক্টটি কী কাজ করে তার এক লাইনের সংক্ষিপ্ত বর্ণনা। *(Tech: Python, MySQL)*
+- **[Project Name 3](https://github.com)** — প্রজেক্টটি কী কাজ করে তার এক লাইনের সংক্ষিপ্ত বর্ণনা। *(Tech: HTML, CSS, JavaScript)*
 
 ---
 
 ### 🌐 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://shields.io" alt="Facebook" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
-  </a>
-</div>
+- **GitHub:** [://github.com](https://://github.com)
+- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- **Facebook:** [://facebook.com](https://://facebook.com)
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Email:** `your.email@gmail.com`
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://vercel.app" width="100%"/>
-</div>
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
